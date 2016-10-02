@@ -24,6 +24,15 @@
     <ClCompile Include="A.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Intervals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="A-small-practice.in">
@@ -33,6 +42,9 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="B-large-practice.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="A-small-practice2.in">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

@@ -112,10 +112,14 @@
   <ItemGroup>
     <ClCompile Include="A.cpp" />
     <ClCompile Include="gymSecret.cpp" />
+    <ClCompile Include="Intervals.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MonsterPath.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="A-small-practice.in" />
+    <None Include="A-small-practice2.in" />
     <None Include="B-large-practice.in" />
     <None Include="B-small-practice.in" />
   </ItemGroup>
