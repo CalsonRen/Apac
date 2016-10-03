@@ -1,4 +1,4 @@
-﻿  MonsterPath.cpp
-c:\users\calson\learning\cpp\apac\apac\monsterpath.cpp(43): warning C4101: “test”: 未引用的局部变量
+﻿  Soldiers.cpp
+c:\users\calson\learning\cpp\apac\apac\soldiers.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
   Apac.vcxproj -> C:\Users\calson\learning\cpp\Apac\Debug\Apac.exe
   Apac.vcxproj -> C:\Users\calson\learning\cpp\Apac\Debug\Apac.pdb (Partial PDB)

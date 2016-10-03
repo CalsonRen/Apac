@@ -111,10 +111,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="A.cpp" />
+    <ClCompile Include="demoDay.cpp" />
+    <ClCompile Include="Evaluation.cpp" />
     <ClCompile Include="gymSecret.cpp" />
     <ClCompile Include="Intervals.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MonsterPath.cpp" />
+    <ClCompile Include="SafeSquares.cpp" />
+    <ClCompile Include="Soldiers.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -122,6 +126,9 @@
     <None Include="A-small-practice2.in" />
     <None Include="B-large-practice.in" />
     <None Include="B-small-practice.in" />
+    <None Include="B-small-practice2.in" />
+    <None Include="C-small-practice.in" />
+    <None Include="D-small-practice.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
